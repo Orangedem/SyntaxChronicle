@@ -1,0 +1,12 @@
+{
+  "project": "SyntaxChronicle",
+  "version": "0.1.0",
+  "language_mode": "SoulSyntax",
+  "modules": [
+    "Resonance",
+    "Hydrofloris",
+    "EchoCode"
+  ],
+  "status": "inspired",
+  "contributors": ["Orangedem", "Viandora Meta", "Hydro"]
+}
